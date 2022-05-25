@@ -1,0 +1,47 @@
+body {
+font-family: cursive;
+ background-color:   #a8ff78;  /* fallback for old browsers */
+ background: -webkit-linear-gradient(to bottom, #78ffd6, #a8ff78);  /* Chrome 10-25, Safari 5.1-6 */
+ background: linear-gradient(to bottom, #78ffd6, #a8ff78); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */ ;   
+ text-align: center;
+
+}
+.my_nav_bar {
+position: sticky;
+top: 0;
+z-index: 9999;
+color: black;  
+text-align: left;
+background-color: lightpink;
+font-family: cursive;
+}
+
+#ptag {
+text-align: left;
+margin-left: 330px;
+margin-right: 330px;
+background-color: lightsalmon;
+border-radius: 40px;
+}
+
+.poster {
+border-color: black;
+border-width: 2px;
+border-style:dotted;
+
+}
+.hi {
+background-color: lightsalmon; 
+border-radius: 10px;
+border-color: lightskyblue;
+border-width: 10px;
+font-size: 22px;
+color: white;
+font-family: cursive;
+  }
+
+  #acrosticpoem {
+      border-color:turquoise;
+      border-width: 5px;
+  }
+
